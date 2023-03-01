@@ -3,6 +3,7 @@ import { imageURL } from "../constants/movie"
 import { Movie } from "../typings"
 
 interface ThumbnailProps {
+  // movie: Movie | DocumentData
   movie: Movie
 }
 
